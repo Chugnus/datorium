@@ -1,2 +1,2 @@
 # datorium
-8 klases kratuve demo
+## 8 klases kratuve demo
